@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace helloWorld
+namespace Variables
 {
     internal class Program
     {
@@ -9,7 +9,7 @@ namespace helloWorld
             Console.WriteLine("Escribe tu nombre");
             string nombre = Console.ReadLine();
 
-            Console.WriteLine("Hola "+nombre);
+            Console.WriteLine("Hola " + nombre);
         }
     }
 }
