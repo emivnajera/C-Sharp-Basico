@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XKlQUuaNvjVv1Z31oG5Fu8dPsViVT4Uq6nAOsY1lqEbDPS+CJclobJhVYROrXK8vb2Zu5PXN6PD6EQDCvF/9RQ==",
+  "dgSpecHash": "XI3UViJgadUSoXre/6ryjIdRX3rTCYClpdkgrf2r3of7RamLQrTvEBVQ5kDU5vfJefJLa7uL4Y6WqEco0gwW2A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\emive\\source\\repos\\Curso Basico de C#\\CalculadoraNumerica\\CalculadoraNumerica\\CalculadoraNumerica.csproj",
+  "projectFilePath": "C:\\Users\\emive\\source\\repos\\C-Sharp-Basico\\CalculadoraNumerica\\CalculadoraNumerica\\CalculadoraNumerica.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

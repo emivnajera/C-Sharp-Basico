@@ -1,0 +1,15 @@
+C:\Users\emive\source\repos\C-Sharp-Basico\LogicalOperators\LogicalOperators\bin\Debug\net6.0\LogicalOperators.exe
+C:\Users\emive\source\repos\C-Sharp-Basico\LogicalOperators\LogicalOperators\bin\Debug\net6.0\LogicalOperators.deps.json
+C:\Users\emive\source\repos\C-Sharp-Basico\LogicalOperators\LogicalOperators\bin\Debug\net6.0\LogicalOperators.runtimeconfig.json
+C:\Users\emive\source\repos\C-Sharp-Basico\LogicalOperators\LogicalOperators\bin\Debug\net6.0\LogicalOperators.dll
+C:\Users\emive\source\repos\C-Sharp-Basico\LogicalOperators\LogicalOperators\bin\Debug\net6.0\LogicalOperators.pdb
+C:\Users\emive\source\repos\C-Sharp-Basico\LogicalOperators\LogicalOperators\obj\Debug\net6.0\LogicalOperators.csproj.AssemblyReference.cache
+C:\Users\emive\source\repos\C-Sharp-Basico\LogicalOperators\LogicalOperators\obj\Debug\net6.0\LogicalOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emive\source\repos\C-Sharp-Basico\LogicalOperators\LogicalOperators\obj\Debug\net6.0\LogicalOperators.AssemblyInfoInputs.cache
+C:\Users\emive\source\repos\C-Sharp-Basico\LogicalOperators\LogicalOperators\obj\Debug\net6.0\LogicalOperators.AssemblyInfo.cs
+C:\Users\emive\source\repos\C-Sharp-Basico\LogicalOperators\LogicalOperators\obj\Debug\net6.0\LogicalOperators.csproj.CoreCompileInputs.cache
+C:\Users\emive\source\repos\C-Sharp-Basico\LogicalOperators\LogicalOperators\obj\Debug\net6.0\LogicalOperators.dll
+C:\Users\emive\source\repos\C-Sharp-Basico\LogicalOperators\LogicalOperators\obj\Debug\net6.0\refint\LogicalOperators.dll
+C:\Users\emive\source\repos\C-Sharp-Basico\LogicalOperators\LogicalOperators\obj\Debug\net6.0\LogicalOperators.pdb
+C:\Users\emive\source\repos\C-Sharp-Basico\LogicalOperators\LogicalOperators\obj\Debug\net6.0\LogicalOperators.genruntimeconfig.cache
+C:\Users\emive\source\repos\C-Sharp-Basico\LogicalOperators\LogicalOperators\obj\Debug\net6.0\ref\LogicalOperators.dll

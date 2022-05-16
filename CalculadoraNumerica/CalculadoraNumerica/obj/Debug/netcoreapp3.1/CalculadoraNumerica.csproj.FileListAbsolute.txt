@@ -12,3 +12,17 @@ C:\Users\emive\source\repos\Curso Basico de C#\CalculadoraNumerica\CalculadoraNu
 C:\Users\emive\source\repos\Curso Basico de C#\CalculadoraNumerica\CalculadoraNumerica\obj\Debug\netcoreapp3.1\CalculadoraNumerica.dll
 C:\Users\emive\source\repos\Curso Basico de C#\CalculadoraNumerica\CalculadoraNumerica\obj\Debug\netcoreapp3.1\CalculadoraNumerica.pdb
 C:\Users\emive\source\repos\Curso Basico de C#\CalculadoraNumerica\CalculadoraNumerica\obj\Debug\netcoreapp3.1\CalculadoraNumerica.genruntimeconfig.cache
+C:\Users\emive\source\repos\C-Sharp-Basico\CalculadoraNumerica\CalculadoraNumerica\bin\Debug\netcoreapp3.1\CalculadoraNumerica.exe
+C:\Users\emive\source\repos\C-Sharp-Basico\CalculadoraNumerica\CalculadoraNumerica\bin\Debug\netcoreapp3.1\CalculadoraNumerica.deps.json
+C:\Users\emive\source\repos\C-Sharp-Basico\CalculadoraNumerica\CalculadoraNumerica\bin\Debug\netcoreapp3.1\CalculadoraNumerica.runtimeconfig.json
+C:\Users\emive\source\repos\C-Sharp-Basico\CalculadoraNumerica\CalculadoraNumerica\bin\Debug\netcoreapp3.1\CalculadoraNumerica.runtimeconfig.dev.json
+C:\Users\emive\source\repos\C-Sharp-Basico\CalculadoraNumerica\CalculadoraNumerica\bin\Debug\netcoreapp3.1\CalculadoraNumerica.dll
+C:\Users\emive\source\repos\C-Sharp-Basico\CalculadoraNumerica\CalculadoraNumerica\bin\Debug\netcoreapp3.1\CalculadoraNumerica.pdb
+C:\Users\emive\source\repos\C-Sharp-Basico\CalculadoraNumerica\CalculadoraNumerica\obj\Debug\netcoreapp3.1\CalculadoraNumerica.csproj.AssemblyReference.cache
+C:\Users\emive\source\repos\C-Sharp-Basico\CalculadoraNumerica\CalculadoraNumerica\obj\Debug\netcoreapp3.1\CalculadoraNumerica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emive\source\repos\C-Sharp-Basico\CalculadoraNumerica\CalculadoraNumerica\obj\Debug\netcoreapp3.1\CalculadoraNumerica.AssemblyInfoInputs.cache
+C:\Users\emive\source\repos\C-Sharp-Basico\CalculadoraNumerica\CalculadoraNumerica\obj\Debug\netcoreapp3.1\CalculadoraNumerica.AssemblyInfo.cs
+C:\Users\emive\source\repos\C-Sharp-Basico\CalculadoraNumerica\CalculadoraNumerica\obj\Debug\netcoreapp3.1\CalculadoraNumerica.csproj.CoreCompileInputs.cache
+C:\Users\emive\source\repos\C-Sharp-Basico\CalculadoraNumerica\CalculadoraNumerica\obj\Debug\netcoreapp3.1\CalculadoraNumerica.dll
+C:\Users\emive\source\repos\C-Sharp-Basico\CalculadoraNumerica\CalculadoraNumerica\obj\Debug\netcoreapp3.1\CalculadoraNumerica.pdb
+C:\Users\emive\source\repos\C-Sharp-Basico\CalculadoraNumerica\CalculadoraNumerica\obj\Debug\netcoreapp3.1\CalculadoraNumerica.genruntimeconfig.cache
