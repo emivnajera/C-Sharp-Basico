@@ -1,0 +1,14 @@
+C:\Users\emive\source\repos\C-Sharp-Basico\LeerDatosUsuario\LeerDatosUsuario\bin\Debug\netcoreapp3.1\LeerDatosUsuario.exe
+C:\Users\emive\source\repos\C-Sharp-Basico\LeerDatosUsuario\LeerDatosUsuario\bin\Debug\netcoreapp3.1\LeerDatosUsuario.deps.json
+C:\Users\emive\source\repos\C-Sharp-Basico\LeerDatosUsuario\LeerDatosUsuario\bin\Debug\netcoreapp3.1\LeerDatosUsuario.runtimeconfig.json
+C:\Users\emive\source\repos\C-Sharp-Basico\LeerDatosUsuario\LeerDatosUsuario\bin\Debug\netcoreapp3.1\LeerDatosUsuario.runtimeconfig.dev.json
+C:\Users\emive\source\repos\C-Sharp-Basico\LeerDatosUsuario\LeerDatosUsuario\bin\Debug\netcoreapp3.1\LeerDatosUsuario.dll
+C:\Users\emive\source\repos\C-Sharp-Basico\LeerDatosUsuario\LeerDatosUsuario\bin\Debug\netcoreapp3.1\LeerDatosUsuario.pdb
+C:\Users\emive\source\repos\C-Sharp-Basico\LeerDatosUsuario\LeerDatosUsuario\obj\Debug\netcoreapp3.1\LeerDatosUsuario.csproj.AssemblyReference.cache
+C:\Users\emive\source\repos\C-Sharp-Basico\LeerDatosUsuario\LeerDatosUsuario\obj\Debug\netcoreapp3.1\LeerDatosUsuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emive\source\repos\C-Sharp-Basico\LeerDatosUsuario\LeerDatosUsuario\obj\Debug\netcoreapp3.1\LeerDatosUsuario.AssemblyInfoInputs.cache
+C:\Users\emive\source\repos\C-Sharp-Basico\LeerDatosUsuario\LeerDatosUsuario\obj\Debug\netcoreapp3.1\LeerDatosUsuario.AssemblyInfo.cs
+C:\Users\emive\source\repos\C-Sharp-Basico\LeerDatosUsuario\LeerDatosUsuario\obj\Debug\netcoreapp3.1\LeerDatosUsuario.csproj.CoreCompileInputs.cache
+C:\Users\emive\source\repos\C-Sharp-Basico\LeerDatosUsuario\LeerDatosUsuario\obj\Debug\netcoreapp3.1\LeerDatosUsuario.dll
+C:\Users\emive\source\repos\C-Sharp-Basico\LeerDatosUsuario\LeerDatosUsuario\obj\Debug\netcoreapp3.1\LeerDatosUsuario.pdb
+C:\Users\emive\source\repos\C-Sharp-Basico\LeerDatosUsuario\LeerDatosUsuario\obj\Debug\netcoreapp3.1\LeerDatosUsuario.genruntimeconfig.cache
